@@ -10,6 +10,20 @@ Em vez de estudar apenas linguagens e frameworks, o objetivo é desenvolver habi
 
 ---
 
+## 🧠 Notebook de Estudos (NotebookLM)
+
+Para centralizar e interagir com os conceitos estudados, criei um notebook interativo no Google NotebookLM. Você pode acessá-lo pelo link abaixo:
+
+👉 **[Acesse o Notebook de Estudos aqui](https://notebooklm.google.com/notebook/4918acef-78eb-46b9-9aed-5add83e999d5)**
+
+---
+
+### 📂 Conteúdo do Notebook
+* **Fontes e Artigos:** Documentos selecionados sobre engenharia de software clássica e o pensamento de Edsger W. Dijkstra. Consulte a lista detalhada e as referências completas no arquivo [fontes-utilizadas.md](/fontes/fontes-utilizadas.md).
+* **Interface de Perguntas e Respostas:** Consultas personalizadas para sanar dúvidas sobre organização e design de código.
+
+---
+
 ## Objetivos de Estudo
 
 * Aprender a pensar em soluções antes de escrever código.
